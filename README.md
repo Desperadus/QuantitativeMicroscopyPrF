@@ -37,3 +37,15 @@ Your following structure of the `data` folder should look like this:
     .
     .
 ```
+
+## Installation
+Create a virtual environment and install the requirements:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+You can also try to install the packages manually:
+```bash
+pip install cellpose cellpose[gui] # TODO
+```
