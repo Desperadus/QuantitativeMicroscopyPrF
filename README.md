@@ -1,6 +1,6 @@
-# Something
+# 4EU+ Quantitative Microscopy - Final Project: Human MCF7 cells – compound-profiling experiment, cell properties extraction
 
-## Installation
+## Setup
 First put your data downloaded from [BroadInstitute](https://bbbc.broadinstitute.org/BBBC021) into the `data` folder. You should download all images and all csv files.
 
 Then unzip them (you can you for this for example: `for z in *.zip; do unzip "$z"; done`.)
